@@ -1,2 +1,2 @@
-hello wold
-hello okten
+hello world
+hello Era
