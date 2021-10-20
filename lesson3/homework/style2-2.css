@@ -1,7 +1,6 @@
 :root{
     --color_blue: #2269BB;
     --color_navy: #16437A;
-    --color_dark_gray: #6c6c6c;
 }
 body{
     background-color: black;
