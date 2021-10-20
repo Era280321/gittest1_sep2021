@@ -1,0 +1,50 @@
+:root{
+    --color_blue: #2269BB;
+    --color_navy: #16437A;
+    --color_dark_gray: #6c6c6c;
+}
+body{
+    background-color: black;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.d-flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    width: 500px;
+    padding: 15px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    background-color: white;
+    color:white;
+}
+
+.widgets{
+    height: 200px;
+    background-color: var(--color_blue);
+    margin-bottom: 15px;
+}
+
+.widgets_sizes{
+    display: flex;
+    column-gap: 15px;
+
+}
+
+.widgets_size{
+    flex-grow: 1;
+    height: 200px;
+    background-color: var(--color_navy)
+}
+
+.contact{
+    height: 200px;
+    background-color: var(--color_blue);
+    margin-top: 15px;
+}
