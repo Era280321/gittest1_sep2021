@@ -258,6 +258,7 @@ body{
     border: 1px solid var(--aqua);
     border-radius: 10px;
     width: 30%;
+
 }
 
 .video__item p{
@@ -289,6 +290,7 @@ body{
 .video__list_cars{
     display: flex;
     column-gap: 30px;
+    row-gap: 30px;
     flex-wrap: wrap;
 
 }
