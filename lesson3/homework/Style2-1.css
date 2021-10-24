@@ -26,17 +26,12 @@
     font-weight: bold;
     font-size: 25px;
 }
-#header{
+#header, #footer{
     height: 150px;
     background-color: var(--color_yellow);
     border: black solid 1px;
 }
 
-#footer{
-    height: 150px;
-    background-color: var(--color_yellow);
-    border: black solid 1px;
-}
 
 .main{
     height: 450px;

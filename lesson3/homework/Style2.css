@@ -27,9 +27,8 @@ body{
     color:white;
 }
 
-.header, .nav,.footer{
+.height-50{
     height: 50px;
-    background-color: var(--color_blue);
 }
 
 .header{
@@ -46,18 +45,18 @@ body{
 
 .main_menu{
     display: flex;
-
 }
 
+.height-200{
+    height: 200px;
+}
 
 .main{
     width: 80%;
-    height: 200px;
     background-color: var(--color_light_blue1);
 }
 
 .aside{
     flex-grow: 1;
-    height: 200px;
     background-color: var(--color_purple)
 }
