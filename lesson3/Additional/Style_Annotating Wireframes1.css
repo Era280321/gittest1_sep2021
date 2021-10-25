@@ -111,7 +111,8 @@ body{
     flex-direction: column;
     row-gap: 15px;
     align-content: space-evenly;
-    background-color: yellow;
+    padding-top: 30px;
+    padding-left: 7px;
     box-sizing: border-box;
 }
 
